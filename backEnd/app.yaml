@@ -1,0 +1,5 @@
+runtime: nodejs18
+
+env_variables:
+  MOVIEREVIEWS_DB_URI: "mongodb+srv://atlas_db_user:zbwg55CDt3wNZ6KI@cluster0.xxyu0xl.mongodb.net/movie_time_db?retryWrites=true&w=majority"
+  MOVIEREVIEWS_COLLECTION: "movie_time_db"
